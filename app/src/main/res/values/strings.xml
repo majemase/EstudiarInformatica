@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EstudiarInformatica</string>
+    <string name="str_ciclo">Ciclo:</string>
+    <string name="str_poblacion">Población:</string>
+    <string name="str_tipo">Tipo:</string>
+    <string name="str_borrar">Borrar</string>
+</resources>
